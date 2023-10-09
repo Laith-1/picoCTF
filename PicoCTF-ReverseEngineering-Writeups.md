@@ -1,5 +1,5 @@
 # PicoCTF
-
+(Writeups, originally my notes on Notion while solving these CTFs)
 [speeds and feeds](https://www.notion.so/speeds-and-feeds-05255ed13e514a4d875ac2c1df710aa4?pvs=21)
 
 [Safe Opener](https://www.notion.so/Safe-Opener-bdd54bfbd4b1424587de30063a40c9a7?pvs=21)
